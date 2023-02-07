@@ -1,13 +1,19 @@
 # About Me
 
+In this About Me repository, I'll be adding information about myself to complete Code 201 Lab 02 (and more).
+
+![headshot](headshot_small.jpg)
+
 ## Author: Sarah Glass
 
-## Lab 02
+## Code 201 - Lab 02
 
 ## Links and Resources
 
-- Collab with X person in lab time
-
 ## Lighthouse accessibility score (insert screenshot)
 
+![Beyonce](Beyonce_Black_Is_king.jpg)]
+
 ## Reflections and Comments
+
+Daily journal answers; reflect on tools and resources used and learned.
