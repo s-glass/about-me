@@ -14,16 +14,20 @@ alert(`Welcome, ${userName}! Are you up for a guessing game? Please answer yes o
 let qOneGuess = prompt('Do I have a dog?').toLowerCase();
 
 if(qOneGuess === 'yes' || qOneGuess === 'y'){
+//console.log('correct')  
   alert('I wish! Unfortunately, the answer is no.');
 } else if(qOneGuess === 'no' || qOneGuess === 'n'){
+//console.log('incorrect')
   alert ('Tragically, you are correct.');
 }
 
 let qTwoGuess = prompt('Do I like Beyoncé?').toLowerCase();
 
 if(qTwoGuess === 'yes' || qTwoGuess === 'y'){
+//console.log('incorrect')  
   alert('Wrong. I LOVE and am basically obsessed with Beyoncé.');
 } else if(qTwoGuess === 'no' || qTwoGuess === 'n'){
+//console.log('correct')  
   alert ('Correct! I do not merely like Beyoncé, I LOVE her.');
 }
 
