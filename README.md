@@ -12,7 +12,7 @@ In this About Me repository, I'll be adding information about myself to complete
 
 ## Lighthouse accessibility score (insert screenshot)
 
-
+![lighthouse score](lighthouse_lab02.png)
 
 ## Reflections and Comments
 
