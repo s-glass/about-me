@@ -41,6 +41,28 @@ body section p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body section ul {
+    margin: 10px;
+    text-align: left;
+    font-size: 20px;
+    color: black;
+    vertical-align: middle;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+body section ol {
+    margin: 10px;
+    text-align: left;
+    font-size: 20px;
+    color: black;
+    vertical-align: middle;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: decimal;
+    list-style-position: inside;
+}
+
 footer {
     margin: 10px;
     text-align: center;
@@ -48,7 +70,6 @@ footer {
     color: black;
     vertical-align: middle;
     font-family: Arial, Helvetica, sans-serif;
-
 }
 
 

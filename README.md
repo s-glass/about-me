@@ -1,6 +1,6 @@
 # About Me
 
-In this About Me repository, I'll be adding information about myself to complete Code 201 Lab 02 (and more).
+In this About Me repository, I'll be adding information about myself to complete Code 201 Lab 02, 03 (and more).
 
 ![headshot](headshot_small.jpg)
 
@@ -8,9 +8,17 @@ In this About Me repository, I'll be adding information about myself to complete
 
 ## Code 201 - Lab 02
 
+
+## Lab 03
+- Adding in a "Top Ten" as an ordered HTML list.
+- Adding a 6th question that allows user 4 attempts to guess a number, alerts 'too high' or 'too low', and gives the correct answer at the end.
+- Adding a 7th question with multiple correct answers, stored in an array. User has 6 attempts, and ends when correctly answered or no more attempts left. All correct answers displayed to the user, 
+- Track and display correct number of answers out of the 7 questions.
+
+
 ## Links and Resources
 
-## Lighthouse accessibility score (insert screenshot)
+## Most Recent ighthouse accessibility score (insert screenshot)
 
 ![lighthouse score](lighthouse_lab02.png)
 
@@ -23,3 +31,6 @@ For this assignment, I relied heavily on notes from today's class and from my ow
 * No questions for now - I'm happy to take things slowly and one step at a time. Something I learned is that if your terminal isn't in the correct repository, it won't show changes to another repository using git status until you move to the correct one.
 
 * It took me about an hour and fifteen minutes. I thought it would take me at least a few hours. Far and away the CSS styling took the longest.
+
+-----------------------------
+
