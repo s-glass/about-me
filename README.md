@@ -18,6 +18,9 @@ Create an About Me page with"
 - Adding a 7th question with multiple correct answers, stored in an array. User has 6 attempts, and ends when correctly answered or no more attempts left. All correct answers displayed to the user, 
 - Track and display correct number of answers out of the 7 questions.
 
+## Lab 04
+- Driver: Logan Reese
+- Navigator: Sarah Glass
 
 ## Links and Resources
 
