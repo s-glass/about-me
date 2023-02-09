@@ -7,7 +7,7 @@ console.log('hey world');
 let userName = prompt('What is your name?');
 let score = 0;
 
-alert(`Welcome, ${userName}! Are you up for a guessing game? Please answer yes or no to the following 7 questions.`);
+alert(`Welcome, ${userName}! Are you up for a guessing game? Please answer the following 7 questions.`);
 
 
 // TODO: prompt 5 yes/no or y/n questions for the user to guess and alert when they are correct or incorrect
@@ -26,10 +26,10 @@ if (qOneGuess === 'yes' || qOneGuess === 'y') {
 let qTwoGuess = prompt('2. Do I like Beyoncé?').toLowerCase();
 
 if (qTwoGuess === 'yes' || qTwoGuess === 'y') {
-  //console.log('incorrect')  
+  //console.log('incorrect')
   alert('Wrong. I LOVE and am basically obsessed with Beyoncé.');
 } else if (qTwoGuess === 'no' || qTwoGuess === 'n') {
-  //console.log('correct')  
+  //console.log('correct')
   alert('Correct! I do not merely like Beyoncé, I LOVE her.');
   score++;
 }
@@ -62,13 +62,13 @@ if (qFiveGuess === 'yes' || qFiveGuess === 'y') {
 }
 
 
-// TODO: give them a final message with their name in the alert 
+// TODO: give them a final message with their name in the alert
 
 
 // alert(`Thanks for playing, ${userName}!`);
 
 
-// TODO: add a guess a number question. Alert says too high or too low. 4 opportunities max. Alert correct answer at the end. 
+// TODO: add a guess a number question. Alert says too high or too low. 4 opportunities max. Alert correct answer at the end.
 
 let attempts = 4;
 let qSixGuess = prompt('6. How many tattos do I have? Guess a number 0-5; You have 4 chances.');
@@ -101,7 +101,7 @@ for (let i = 0; i < attempts; i++) {
 let guesses = 6;
 // let myArray = ['pineapple', 'tomatoes', 'cashews', 'olives', 'peanut butter', 'cucumbers', 'lime'];
 // console.log(myArray);
-let qSevenGuess = prompt('7. Guess one of my favorite foods - you have 6 attempts. Possible answers are as follows: rice, cheese, pineapple, shrimp, tortilla chips, lime, cucumbers, cashews, bread, chocolate'); 
+let qSevenGuess = prompt('7. Guess one of my favorite foods - you have 6 attempts. Guess from the following: rice, cheese, pineapple, shrimp, tortilla chips, lime, cucumbers, cashews, bread, chocolate'); 
 
 // Between the following food items, pick one that is NOT one of my favorites: pineapple, tomatoes, cashews, olives, cucumbers, lime, shrimp, , shrimp, eggs? You have 6 chances.');
 
@@ -126,7 +126,7 @@ let foods = ['pineapple', 'shrimp', 'cashews', 'cucumbers', 'lime'];
 
 for(let i = 0; i < foods.length; i++){
   if(foods[i] === qSevenGuess) {
-    alert ('Correct! They are yucky.');
+    alert ('Correct! I like them.');
     score++;
     break;
   } else {
