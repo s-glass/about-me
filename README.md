@@ -19,6 +19,7 @@ Create an About Me page with"
 - Track and display correct number of answers out of the 7 questions.
 
 ## Lab 04
+Added functions to JS - worked on together:
 - Driver: Logan Reese
 - Navigator: Sarah Glass
 
