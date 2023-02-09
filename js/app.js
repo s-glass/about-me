@@ -71,7 +71,7 @@ if (qFiveGuess === 'yes' || qFiveGuess === 'y') {
 // TODO: add a guess a number question. Alert says too high or too low. 4 opportunities max. Alert correct answer at the end.
 
 let attempts = 4;
-let qSixGuess = prompt('6. How many tattos do I have? Guess a number 0-5; You have 4 chances.');
+let qSixGuess = prompt('6. How many tattoos do I have? Guess a number 0-5; You have 4 chances.');
 //(qSixGuess === 1){
 console.log(qSixGuess);
 for (let i = 0; i < attempts; i++) {
@@ -79,7 +79,7 @@ for (let i = 0; i < attempts; i++) {
     console.log(qSixGuess);
     alert('Correct! Just the one for now.');
     score++;
-    i = 10;
+    i = 10; //any number higher than 4
   }
   else if (qSixGuess < 1) {
     console.log(qSixGuess);
@@ -101,7 +101,12 @@ for (let i = 0; i < attempts; i++) {
 let guesses = 6;
 // let myArray = ['pineapple', 'tomatoes', 'cashews', 'olives', 'peanut butter', 'cucumbers', 'lime'];
 // console.log(myArray);
-let qSevenGuess = prompt('7. Guess one of my favorite foods - you have 6 attempts. Guess from the following: rice, cheese, pineapple, shrimp, tortilla chips, lime, cucumbers, cashews, bread, chocolate'); 
+
+//for(let j = 0; j < 6; j++){ -- missing?
+
+let qSevenGuess = prompt('7. Guess one of my favorite foods - you have 6 attempts. Guess from the following: rice, cheese, pineapple, shrimp, tortilla chips, lime, cucumbers, cashews, bread, chocolate').toLowerCase();
+
+
 
 // Between the following food items, pick one that is NOT one of my favorites: pineapple, tomatoes, cashews, olives, cucumbers, lime, shrimp, , shrimp, eggs? You have 6 chances.');
 
