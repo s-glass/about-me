@@ -6,19 +6,19 @@ In this About Me repository, I'll be adding information about myself to complete
 
 ## Author: Sarah Glass
 
-## Lab 02
+## Lab 02 Description
 Create an About Me page with"
 - short bio, education and job history, and goals
 - 5 yes/no user prompts taking into consideration case sensitivity
 - ask user for name and welcome them with their name
 
-## Lab 03
+## Lab 03 Description
 - Adding in a "Top Ten" as an ordered HTML list.
 - Adding a 6th question that allows user 4 attempts to guess a number, alerts 'too high' or 'too low', and gives the correct answer at the end.
 - Adding a 7th question with multiple correct answers, stored in an array. User has 6 attempts, and ends when correctly answered or no more attempts left. All correct answers displayed to the user, 
 - Track and display correct number of answers out of the 7 questions.
 
-## Lab 04
+## Lab 04 Description
 Added functions to JS - worked on together:
 - Driver: Logan Reese
 - Navigator: Sarah Glass
@@ -50,3 +50,6 @@ For this assignment, I relied heavily on notes from today's class and from my ow
 * A few observations: a) Now that we have the reset.css doc in this repo, I had to go back in and style even the types of bullets and numbers in lists; b) there are lots of ways to complete a given task, and I somehow always seem to find the hardest way! I'm grateful for TA patience with me on this lab.
 
 * It took me in total about 5.5 hours to complete this assignment. I had no idea how long it would take me, but I didn't expect it to take quite that long. 
+
+------------------------------
+
