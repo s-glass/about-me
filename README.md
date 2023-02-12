@@ -27,7 +27,7 @@ Added functions to JS - worked on together:
 
 ## Most Recent Lighthouse accessibility score (insert screenshot)
 
-![lighthouse score](lighthouse_lab03.png)
+![lighthouse score](lighthouse_lab05.png)
 
 ## Reflections and Comments
 
@@ -53,3 +53,10 @@ For this assignment, I relied heavily on notes from today's class and from my ow
 
 ------------------------------
 
+### Lab 05b:
+
+* This lab went well! I’m glad the page is still working after everything we did with it all week.
+
+* My only observation is that it is fun to explore with colors and color theory, and that may be a big time suck for me in the future. But enjoyable, at least!
+
+* To just do the cleaning up and deploying, it took maybe an hour total, including messing around with colors.
